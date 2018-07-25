@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: MarkXML
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 5.27919531, y: .499999881, z: -28.9897804}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b40b403091ee83a479c7ce8970d07d84, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mainTexture: {fileID: 2800000, guid: 63554b6d157b1ad498ec24a908d81d9e, type: 3}
+  overTexture: {fileID: 2800000, guid: 9d8bc4cc72b634b4b9680715e430c3fd, type: 3}
+  activeTexture: {fileID: 2800000, guid: 5b8954b4f6c1163479f2c261b9a0b67c, type: 3}
+  markerTextShow: 1
+  localName: 
+  coordinate_x: 2d3132322e343033
+  coordinate_y: 33372e3739383233
+  normalSprite: 
+  normalColor:
+    r: .53725493
+    g: .53725493
+    b: .53725493
+    a: 1
+  normalColor_r: 0
+  normalColor_g: 0
+  normalColor_b: 0
+  normalColor_a: 0
+  normalColor_2: 
+  normalPixelInset: []
+  normalPixelInset_x: -21
+  normalPixelInset_y: 0
+  normalPixelInset_w: 64
+  normalPixelInset_h: 64
+  hoverSprite: 
+  textShow: 1
+  textPixelInset: []
+  textPixelInset_x: 32.1599998
+  textPixelInset_y: 43.5999985
+  textFontSize: 28
+  textColor:
+    r: .149019614
+    g: .149019614
+    b: .149019614
+    a: 1
+  textColor_r: 0
+  textColor_g: 0
+  textColor_b: 0
+  textColor_a: 0
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1

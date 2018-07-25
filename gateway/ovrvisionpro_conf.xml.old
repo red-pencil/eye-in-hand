@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<LeftCameraInstric type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    7.0676223467379100e+002 0. 6.3868545044635425e+002 0.
+    7.0842798786702826e+002 4.8920149107340649e+002 0. 0. 1.</data></LeftCameraInstric>
+<RightCameraInstric type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    7.0448393232608316e+002 0. 6.7892364485322889e+002 0.
+    7.0551203658205327e+002 4.8242177217702584e+002 0. 0. 1.</data></RightCameraInstric>
+<LeftCameraDistortion type_id="opencv-matrix">
+  <rows>1</rows>
+  <cols>8</cols>
+  <dt>d</dt>
+  <data>
+    -3.5182056020096164e-001 1.9615358008932182e-001
+    -4.4449060200469704e-004 -1.6109690130100798e-003
+    -2.8595936948665482e-002 -4.4986914368855312e-004
+    -4.6960600151421472e-003 7.9031766625860422e-002</data></LeftCameraDistortion>
+<RightCameraDistortion type_id="opencv-matrix">
+  <rows>1</rows>
+  <cols>8</cols>
+  <dt>d</dt>
+  <data>
+    -3.6843046499035859e-001 3.0260503331919841e-001
+    -3.2731012615201568e-004 -1.4695042734552957e-003
+    -4.5680486076741589e-001 -8.5435156933637811e-003
+    5.1854646567871261e-002 -2.3562597368007251e-001</data></RightCameraDistortion>
+<R1 type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    9.9956584881102006e-001 2.1533180701005408e-003
+    2.9384981061658464e-002 -2.1455827855391121e-003
+    9.9999765479052072e-001 -2.9476765285986050e-004
+    -2.9385546876235707e-002 2.3159176961360910e-004
+    9.9956812474189916e-001</data></R1>
+<R2 type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    9.9992942897721848e-001 3.3821579826341535e-003
+    1.1388506165176605e-002 -3.3851554674898731e-003
+    9.9999424059218278e-001 2.4393631253607053e-004
+    -1.1387615542978477e-002 -2.8247096161259332e-004
+    9.9993511910643540e-001</data></R2>
+<T type_id="opencv-matrix">
+  <rows>1</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    -5.8714232620512917e+001 -2.7127129926196791e-001
+    3.8817129111868454e-001</data></T>
+<FocalPoint type_id="opencv-matrix">
+  <rows>1</rows>
+  <cols>1</cols>
+  <dt>f</dt>
+  <data>
+    4.27989990e+002</data></FocalPoint>
+</opencv_storage>
